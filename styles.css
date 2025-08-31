@@ -1,0 +1,4 @@
+/* Apply 'Century Gothic' globally */
+* {
+    font-family: 'Century Gothic', sans-serif !important;
+}

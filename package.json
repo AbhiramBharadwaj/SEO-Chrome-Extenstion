@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@tabler/icons-react": "^3.28.1",
+    "aceternity-ui": "^0.2.2",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.17.0",
+    "tailwind-merge": "^2.6.0",
+    "web-vitals": "^4.2.4"
+  }
+}
